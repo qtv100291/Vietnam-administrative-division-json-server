@@ -7,8 +7,7 @@ Monthly update. Last update : 09/2020\
 Data source: https://www.gso.gov.vn/dmhc2015/
 ## Demo
 
-
-https://codepen.io/qtv10291/pen/QWNxWer
+<a href="https://codepen.io/qtv10291/pen/QWNxWer" target="_blank">https://codepen.io/qtv10291/pen/QWNxWer</a>
 
 ## Getting Started
 
