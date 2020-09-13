@@ -7,9 +7,9 @@ Monthly update. Last update : 09/2020\
 Data source: https://www.gso.gov.vn/dmhc2015/
 ## Demo
 
-```bash
+
 https://codepen.io/qtv10291/pen/QWNxWer
-```
+
 ## Getting Started
 
 1 . Clone this repository
