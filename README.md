@@ -32,7 +32,7 @@ https://github.com/jesperorb/json-server-heroku#deploy-json-server-to--free-host
 
 - Get all City/Province : http://localhost:3000/province
 - Get all District/Town of a City/Province : http://localhost:3000/district/?idProvince=${id of Province}
-- Get all Ward/Commune of a District/Town : http://localhost:3000/?idDistrict=${id of District}
+- Get all Ward/Commune of a District/Town : http://localhost:3000/commune/?idDistrict=${id of District}
 
 Example : Get all District of Hanoi City ( id Province: 01 ) : http://localhost:3000/district/?idProvince=01
 
