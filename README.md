@@ -1,10 +1,10 @@
 # Vietnam-administrative-division-json-server
 
-> Instruction help you create a fake API based on [json-server](https://github.com/typicode/json-server) to build location selection in Vietnam. Should only be used for educational purposes or project demo.\
+> Instruction help you create a fake API based on [json-server](https://github.com/typicode/json-server) to build the location selection functionality in Vietnam. Should only be used for educational purposes or project demo.\
 > Hướng dẫn giúp bạn tạo nhanh một fake API dựa trên [json-server](https://github.com/typicode/json-server) để xây dựng chức năng lựa chọn địa điểm tại Việt Nam( Tỉnh/thành phố, quận/huyện, xã/phường ). Chỉ nên dùng cho mục đích học tập hoặc để demo dự án.
 
-Monthly update. Last update : 09/2020\
-Data source: https://www.gso.gov.vn/dmhc2015/
+Monthly update. Last update : 04/2021\
+Data source: https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/
 ## Demo
 
 <a href="https://codepen.io/qtv10291/pen/QWNxWer" target="_blank">https://codepen.io/qtv10291/pen/QWNxWer</a>
@@ -36,7 +36,7 @@ https://github.com/jesperorb/json-server-heroku#deploy-json-server-to--free-host
 
 Example : Get all District of Hanoi City ( id Province: 01 ) : http://localhost:3000/district/?idProvince=01
 
-If you find this repository useful, click star button to support me.
+**If you find this repository useful, please click star button to support me.**
 
 
 
