@@ -1,9 +1,8 @@
 # Vietnam-administrative-division-json-server
-
-> Instruction help you create a fake API based on [json-server](https://github.com/typicode/json-server) to build the location selection functionality in Vietnam. Should only be used for educational purposes or project demo.\
+> Instruction help you create a fake API based on [json-server](https://github.com/typicode/json-server) to build the location selection functionality. Should only be used for educational purposes or project demo.\
 > Hướng dẫn giúp bạn tạo nhanh một fake API dựa trên [json-server](https://github.com/typicode/json-server) để xây dựng chức năng lựa chọn địa điểm tại Việt Nam( Tỉnh/thành phố, quận/huyện, xã/phường ). Chỉ nên dùng cho mục đích học tập hoặc để demo dự án.
 
-Monthly update. Last update : 04/2021\
+Data is monthly updated. Last update : 06/2021\
 Data source: https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/
 ## Demo
 
@@ -27,7 +26,8 @@ npm install
 json-server --watch db.json
 ```
 Note : For deploying json-server to various free hosting, check this reference link:
-https://github.com/jesperorb/json-server-heroku#deploy-json-server-to--free-hosting-site-. If needed, using my json-server deployed: https://sheltered-anchorage-60344.herokuapp.com
+https://github.com/jesperorb/json-server-heroku#deploy-json-server-to--free-hosting-site-. If needed, using my json-server deployed: https://sheltered-anchorage-60344.herokuapp.com <br>
+( Ghi chú : Để deploy json-server lên một vài hosting miễn phí, các bạn có thể tham khảo link này: https://github.com/jesperorb/json-server-heroku#deploy-json-server-to--free-hosting-site-, hoặc nếu thấy cần, có thể dùng luôn api đã được mình đẩy lên: https://sheltered-anchorage-60344.herokuapp.com )
 ## API List
 
 - Get all City/Province : http://localhost:3000/province
@@ -36,7 +36,12 @@ https://github.com/jesperorb/json-server-heroku#deploy-json-server-to--free-host
 
 Example : Get all District of Hanoi City ( id Province: 01 ) : http://localhost:3000/district/?idProvince=01
 
-**If you find this repository useful, please click star button to support me.**
+<b style="font-size:18px">If you find this repository useful, please click star button to support me.</b><br>
+(Nếu thấy repository hữu ích, hãy nhấn vào nút Star ủng hộ mình :) )
+<br>
+
+### Keywords
+danh sách tỉnh thành việt nam json, api tỉnh thành phố quận huyện
 
 
 
