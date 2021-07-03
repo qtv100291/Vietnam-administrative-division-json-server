@@ -1,13 +1,13 @@
 {
-    "name": "Vietnam-administrative-division-json-server",
-    "version": "1.0.0",
-    "description": "administrative division of Vietnam",
-    "keywords": [
-      "json-server, Vietnam, REST API, Vietnamese administrative division, api tỉnh thành phố, api đơn vị hành chính"
-    ],
-    "author": "qtv10291",
-    "license": "ISC",
-    "dependencies": {
-      "json-server": "^0.16.3"
-    }
+  "name": "Vietnam-administrative-division-json-server",
+  "version": "1.0.0",
+  "description": "administrative division of Vietnam",
+  "keywords": [
+    "json-server, Vietnam, REST API, Vietnamese administrative division, api tỉnh thành phố, api đơn vị hành chính"
+  ],
+  "author": "qtv10291",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
 }
