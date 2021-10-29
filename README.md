@@ -2,7 +2,7 @@
 > Instruction help you create a fake API based on [json-server](https://github.com/typicode/json-server) to build the location selection functionality. Should only be used for educational purposes or project demo.\
 > Hướng dẫn giúp bạn tạo nhanh một fake API dựa trên [json-server](https://github.com/typicode/json-server) để xây dựng chức năng lựa chọn địa điểm tại Việt Nam( Tỉnh/thành phố, quận/huyện, xã/phường ). Chỉ nên dùng cho mục đích học tập hoặc để demo dự án.
 
-Data is monthly updated. Last update : 07/2021\
+Data is monthly updated. Last update : 11/2021\
 Data source: https://www.gso.gov.vn/phuong-phap-thong-ke/danh-muc/don-vi-hanh-chinh/
 ## Demo
 
@@ -36,8 +36,8 @@ https://github.com/jesperorb/json-server-heroku#deploy-json-server-to--free-host
 
 Example : Get all District of Hanoi City ( id Province: 01 ) : http://localhost:3000/district/?idProvince=01
 
-<b style="font-size:18px">If you find this repository useful, please click star button to support me.</b><br>
-(Nếu thấy repository hữu ích, hãy nhấn vào nút Star ủng hộ mình :) )
+<b style="font-size:18px">If you find this repository useful, please click star button to give me the motivation to keep this work up-to-date :-< </b><br>
+(Nếu thấy repository hữu ích, hãy nhấn vào nút Star để mình có thêm cố gắng update repo này :-< )
 <br>
 
 ### Keywords
