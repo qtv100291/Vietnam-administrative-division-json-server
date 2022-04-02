@@ -3,7 +3,7 @@
 > Instruction help you create a fake API based on [json-server](https://github.com/typicode/json-server) to build the location selection functionality. Should only be used for educational purposes or project demo.\
 > Hướng dẫn giúp bạn tạo nhanh một fake API dựa trên [json-server](https://github.com/typicode/json-server) để xây dựng chức năng lựa chọn địa điểm tại Việt Nam( Tỉnh/thành phố, quận/huyện, xã/phường ). Chỉ nên dùng cho mục đích học tập hoặc để demo dự án.
 
-Data is monthly updated. Last update : 11/2021\
+Data is monthly updated. Last update : 04/2022\
 Data source: https://danhmuchanhchinh.gso.gov.vn/Default.aspx
 
 ## Demo
