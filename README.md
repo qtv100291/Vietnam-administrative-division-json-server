@@ -6,6 +6,10 @@
 Data is monthly updated. Last update : 04/2022\
 Data source: https://danhmuchanhchinh.gso.gov.vn/Default.aspx
 
+<b>If you find this repository useful, please click star button to give me the motivation to keep this work up-to-date</b>
+<br>
+(Nếu thấy repository hữu ích, hãy nhấn vào nút Star để mình có thêm cố gắng update repo này )
+
 ## Demo
 
 <a href="https://codepen.io/qtv10291/pen/QWNxWer" target="_blank">https://codepen.io/qtv10291/pen/QWNxWer</a>
@@ -41,9 +45,6 @@ https://github.com/jesperorb/json-server-heroku#deploy-json-server-to--free-host
 - Get all Ward/Commune of a District/Town : http://localhost:3000/commune/?idDistrict=${id of District}
 
 Example : Get all District of Hanoi City ( id Province: 01 ) : http://localhost:3000/district/?idProvince=01
-
-<b style="font-size:18px">If you find this repository useful, please click star button to give me the motivation to keep this work up-to-date :-< </b><br>
-(Nếu thấy repository hữu ích, hãy nhấn vào nút Star để mình có thêm cố gắng update repo này :-< )
 <br>
 
 ### Keywords
