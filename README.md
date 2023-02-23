@@ -43,10 +43,9 @@ https://github.com/jesperorb/json-server-heroku#deploy-json-server-to--free-host
 Example : Get all District of Hanoi City ( id Province: 01 ) : http://localhost:3000/district/?idProvince=01
 <br>
 <br>
-
-<b>If you find this repository useful, please click star button to give me the motivation to keep this work up-to-date</b>
+<b>Nếu thấy repository nhỏ này thật sự hữu ích với bạn, hãy nhấn vào nút Star để mình có thêm cố gắng update nó. Cảm ơn bạn nhiều.</b>
 <br>
-( Nếu thấy repository hữu ích, hãy nhấn vào nút Star để mình có thêm cố gắng update repo này )
+( If you find this repository useful, please click star button to give me the motivation to keep this work up-to-date. Thank you very much )
 <br>
 
 ### Keywords
