@@ -1238,10 +1238,10 @@
   "resolved" "https://registry.npmjs.org/json-schema-traverse/-/json-schema-traverse-0.4.1.tgz"
   "version" "0.4.1"
 
-"json-server@^0.17.2":
-  "integrity" "sha512-PKmTFfiUduibc9QyieY9PDiSG4CttFpqpVkwTvWWbGQaah4Id/gKqn5er4dnynUw4GVdjAzGKjSbBuVIlXM6mw=="
-  "resolved" "https://registry.npmjs.org/json-server/-/json-server-0.17.2.tgz"
-  "version" "0.17.2"
+"json-server@^0.17.3":
+  "integrity" "sha512-LDNOvleTv3rPAcefzXZpXMDZshV0FtSzWo8ZjnTOhKm4OCiUvsYGrGrfz4iHXIFd+UbRgFHm6gcOHI/BSZ/3fw=="
+  "resolved" "https://registry.npmjs.org/json-server/-/json-server-0.17.3.tgz"
+  "version" "0.17.3"
   dependencies:
     "body-parser" "^1.19.0"
     "chalk" "^4.1.2"
