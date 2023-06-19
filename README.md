@@ -5,8 +5,15 @@
 
 Data is monthly updated. Last update : 04/2023\
 Data source: https://danhmuchanhchinh.gso.gov.vn/Default.aspx
+<br/>
 
 <div align="center"><img src='https://res.cloudinary.com/dqfemw7l4/image/upload/v1682758791/stuff/ezgif.com-video-to-gif_vlii0x.gif'></div>
+<br/>
+
+<b>Nếu thấy repository nhỏ này thật sự hữu ích với bạn, hãy nhấn vào nút Star để mình có thêm cố gắng update nó. Xin cảm ơn.</b>
+<br>
+( If you find this repository useful, please click star button to give me the motivation to keep this work up-to-date. Thanks so much )
+<br>
 
 ## Demo
 
@@ -46,10 +53,6 @@ https://github.com/jesperorb/json-server-heroku#deploy-json-server-to--free-host
 
 Example : Get all District of Hanoi City ( id Province: 01 ) : http://localhost:3000/district/?idProvince=01
 <br>
-<br>
-<b>Nếu thấy repository nhỏ này thật sự hữu ích với bạn, hãy nhấn vào nút Star để mình có thêm cố gắng update nó. Xin cảm ơn.</b>
-<br>
-( If you find this repository useful, please click star button to give me the motivation to keep this work up-to-date. Thanks so much )
 <br>
 
 ### Keywords
