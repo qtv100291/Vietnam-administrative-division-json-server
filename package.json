@@ -5,6 +5,9 @@
   "keywords": [
     "json-server, Vietnam, REST API, Vietnamese administrative division, api tỉnh thành phố, api đơn vị hành chính"
   ],
+  "scripts": {
+    "update": "node update_data.js"
+  },
   "author": "qtv10291",
   "license": "ISC",
   "dependencies": {
