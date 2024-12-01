@@ -9,5 +9,8 @@
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.4"
+  },
+  "scripts": {
+    "get-file": "git checkout master -- db.json"
   }
 }
