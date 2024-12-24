@@ -4834,7 +4834,7 @@
     { "idDistrict": "317", "idCommune": "11941", "name": "Xã Trân Châu" },
     { "idDistrict": "317", "idCommune": "11944", "name": "Xã Việt Hải" },
     { "idDistrict": "317", "idCommune": "11947", "name": "Xã Xuân Đám" },
-    { "idDistrict": "318", "idCommune": "", "name": "" },
+
     { "idDistrict": "323", "idCommune": "11950", "name": "Phường Lam Sơn" },
     { "idDistrict": "323", "idCommune": "11953", "name": "Phường Hiến Nam" },
     { "idDistrict": "323", "idCommune": "11956", "name": "Phường An Tảo" },
@@ -7233,7 +7233,7 @@
     { "idDistrict": "470", "idCommune": "19735", "name": "Xã Hải Sơn" },
     { "idDistrict": "470", "idCommune": "19738", "name": "Xã Hải Chánh" },
     { "idDistrict": "470", "idCommune": "19741", "name": "Xã Hải Khê" },
-    { "idDistrict": "471", "idCommune": "", "name": "" },
+
     { "idDistrict": "474", "idCommune": "19750", "name": "Phường Tây Lộc" },
     { "idDistrict": "474", "idCommune": "19753", "name": "Phường Thuận Lộc" },
     { "idDistrict": "474", "idCommune": "19756", "name": "Phường Gia Hội" },
@@ -7483,7 +7483,7 @@
     { "idDistrict": "497", "idCommune": "20326", "name": "Xã Hòa Tiến" },
     { "idDistrict": "497", "idCommune": "20329", "name": "Xã Hòa Phước" },
     { "idDistrict": "497", "idCommune": "20332", "name": "Xã Hòa Khương" },
-    { "idDistrict": "498", "idCommune": "", "name": "" },
+
     { "idDistrict": "502", "idCommune": "20335", "name": "Phường Tân Thạnh" },
     { "idDistrict": "502", "idCommune": "20338", "name": "Phường Phước Hòa" },
     { "idDistrict": "502", "idCommune": "20341", "name": "Phường An Mỹ" },
@@ -7947,7 +7947,7 @@
     { "idDistrict": "535", "idCommune": "21532", "name": "Xã Ba Lế" },
     { "idDistrict": "535", "idCommune": "21535", "name": "Xã Ba Nam" },
     { "idDistrict": "535", "idCommune": "21538", "name": "Xã Ba Xa" },
-    { "idDistrict": "536", "idCommune": "", "name": "" },
+
     { "idDistrict": "540", "idCommune": "21550", "name": "Phường Nhơn Bình" },
     { "idDistrict": "540", "idCommune": "21553", "name": "Phường Nhơn Phú" },
     { "idDistrict": "540", "idCommune": "21556", "name": "Phường Đống Đa" },
@@ -9949,7 +9949,7 @@
     { "idDistrict": "754", "idCommune": "26725", "name": "Phường Hắc Dịch" },
     { "idDistrict": "754", "idCommune": "26728", "name": "Xã Châu Pha" },
     { "idDistrict": "754", "idCommune": "26731", "name": "Xã Tóc Tiên" },
-    { "idDistrict": "755", "idCommune": "", "name": "" },
+
     { "idDistrict": "760", "idCommune": "26734", "name": "Phường Tân Định" },
     { "idDistrict": "760", "idCommune": "26737", "name": "Phường Đa Kao" },
     { "idDistrict": "760", "idCommune": "26740", "name": "Phường Bến Nghé" },
