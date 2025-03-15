@@ -27,3 +27,5 @@ yarn-error.log*
 update_data.js
 distrct.json
 commune.json
+
+*.docx
