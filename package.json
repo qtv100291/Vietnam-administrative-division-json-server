@@ -6,11 +6,15 @@
     "json-server, Vietnam, REST API, Vietnamese administrative division, api tỉnh thành phố, api đơn vị hành chính"
   ],
   "scripts": {
-    "update": "node update_data.js"
+    "update": "node update_data.js",
+    "start": "json-server --watch db.json"
   },
   "author": "qtv10291",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.4"
+  },
+  "devDependencies": {
+    "officeparser": "^5.1.1"
   }
 }
