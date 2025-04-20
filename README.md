@@ -17,9 +17,9 @@ Data source: https://danhmuchanhchinh.gso.gov.vn/Default.aspx
 
 ## Demo
 
-[Demo HTML - CSS - Javascript](https://codepen.io/qtv10291/pen/QWNxWer)
+[Demo HTML - CSS - Javascript](https://codesandbox.io/p/sandbox/ctpxd8)
 <br>
-[Demo ReactJs](https://codepen.io/qtv10291/pen/gOdNgNo)
+[Demo ReactJs](https://codesandbox.io/p/sandbox/demo-reactjs-xvxlpj)
 
 ## Getting Started
 
