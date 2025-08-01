@@ -1,13 +1,13 @@
 # Vietnam-administrative-division-json-server
 
 > Instruction helps you create a fake API based on [json-server](https://github.com/typicode/json-server) to build the location selection functionality. Should only be used for educational purposes or project demo.\
-> Hướng dẫn giúp bạn tạo nhanh một fake API dựa trên [json-server](https://github.com/typicode/json-server) để xây dựng chức năng lựa chọn địa điểm tại Việt Nam( Tỉnh/thành phố, quận/huyện, xã/phường ). Chỉ nên dùng cho mục đích học tập hoặc để demo dự án.
+> Hướng dẫn giúp bạn tạo nhanh một fake API dựa trên [json-server](https://github.com/typicode/json-server) để xây dựng chức năng lựa chọn địa điểm tại Việt Nam( Tỉnh/thành phố, xã/phường ). Chỉ nên dùng cho mục đích học tập hoặc để demo dự án.
 
-Data is periodically updated. Last update : 03/2025\
+Data is periodically updated. Last update : 07/2025 - 2 Levels of Administrative Divisions\
 Data source: https://danhmuchanhchinh.gso.gov.vn/Default.aspx
 <br/>
 
-<div align="center"><img src='https://res.cloudinary.com/dqfemw7l4/image/upload/v1682758791/stuff/ezgif.com-video-to-gif_vlii0x.gif'></div>
+<div align="center"><img src='https://res.cloudinary.com/dqfemw7l4/image/upload/v1754059957/bandicam2025-08-0121-18-23-899-ezgif.com-crop_1_w653vg.gif'></div>
 <br/>
 
 <b>Nếu thấy repository nhỏ này thật sự hữu ích với bạn, hãy nhấn vào nút Star để mình có thêm cố gắng update nó. Xin cảm ơn.</b>
@@ -48,13 +48,12 @@ https://github.com/jesperorb/json-server-heroku#deploy-json-server-to--free-host
 ## API List
 
 - Get all City/Province : http://localhost:3000/province
-- Get all District/Town of a City/Province : http://localhost:3000/district/?idProvince=${id of Province}
-- Get all Ward/Commune of a District/Town : http://localhost:3000/commune/?idDistrict=${id of District}
+- Get all Ward/Commune of a City/Province : http://localhost:3000/commune/?idProvince=${ id of Province }
 
-Example : Get all District of Hanoi City ( id Province: 01 ) : http://localhost:3000/district/?idProvince=01
+Example : Get all Ward/Commune of Hanoi City ( id Province: 01 ) : http://localhost:3000/commune/?idProvince=01
 <br>
 <br>
 
 ### Keywords
 
-danh sách tỉnh thành việt nam json, api tỉnh thành phố quận huyện
+danh sách tỉnh thành việt nam json, api tỉnh thành phố xã phường
