@@ -42,8 +42,8 @@ json-server --watch db.json
 ```
 
 Note : For deploying json-server to various free hosting, check this reference link:
-https://github.com/jesperorb/json-server-heroku#deploy-json-server-to--free-hosting-site- (Heroku, Glitch, Azure) or https://github.com/kitloong/json-server-vercel (Vercel). If needed, using my json-server deployed: https://vietnam-administrative-division-json-server-swart.vercel.app <br>
-( Ghi chú : Để deploy json-server lên một vài hosting miễn phí, các bạn có thể tham khảo link này: https://github.com/jesperorb/json-server-heroku#deploy-json-server-to--free-hosting-site- (Heroku, Glitch, Azure) hoặc https://github.com/kitloong/json-server-vercel (Vercel), hoặc nếu thấy cần, có thể dùng luôn api đã được mình đẩy lên: https://vietnam-administrative-division-json-server-swart.vercel.app )
+https://github.com/rymdar/json-server-heroku#deploy-json-server-to--free-hosting-site- (Heroku, Glitch, Azure) or https://github.com/kitloong/json-server-vercel (Vercel). If needed, using my json-server deployed: https://vietnam-administrative-division-json-server-swart.vercel.app <br>
+( Ghi chú : Để deploy json-server lên một vài hosting miễn phí, các bạn có thể tham khảo link này: https://github.com/rymdar/json-server-heroku#deploy-json-server-to--free-hosting-site- (Heroku, Glitch, Azure) hoặc https://github.com/kitloong/json-server-vercel (Vercel), hoặc nếu thấy cần, có thể dùng luôn api đã được mình đẩy lên: https://vietnam-administrative-division-json-server-swart.vercel.app )
 
 ## API List
 
